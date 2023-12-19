@@ -13,7 +13,7 @@ import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { useProModal } from "@/hooks/use-pro-modal";
 
-export const tools = [
+ const tools = [
   {
     label: 'Conversation',
     icon: MessageSquare,
